@@ -1,0 +1,1645 @@
+[
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage?",
+    "question_zh": "哪些装置可以防止虹吸回流？",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure?",
+    "question_zh": "哪些装置可以防止背压？",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet?",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour?",
+    "question_zh": "计算降水率（英寸/小时）的公式是？",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 5)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 5）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 6)",
+    "question_zh": "哪些装置可以防止背压？（变体 6）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 7)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 7）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 8)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 8）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 9)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 9）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 10)",
+    "question_zh": "哪些装置可以防止背压？（变体 10）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 11)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 11）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 12)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 12）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 13)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 13）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 14)",
+    "question_zh": "哪些装置可以防止背压？（变体 14）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 15)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 15）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 16)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 16）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 17)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 17）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 18)",
+    "question_zh": "哪些装置可以防止背压？（变体 18）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 19)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 19）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 20)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 20）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 21)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 21）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 22)",
+    "question_zh": "哪些装置可以防止背压？（变体 22）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 23)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 23）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 24)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 24）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 25)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 25）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 26)",
+    "question_zh": "哪些装置可以防止背压？（变体 26）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 27)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 27）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 28)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 28）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 29)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 29）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 30)",
+    "question_zh": "哪些装置可以防止背压？（变体 30）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 31)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 31）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 32)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 32）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 33)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 33）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 34)",
+    "question_zh": "哪些装置可以防止背压？（变体 34）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 35)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 35）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 36)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 36）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 37)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 37）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 38)",
+    "question_zh": "哪些装置可以防止背压？（变体 38）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 39)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 39）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 40)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 40）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 41)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 41）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 42)",
+    "question_zh": "哪些装置可以防止背压？（变体 42）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 43)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 43）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 44)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 44）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 45)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 45）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 46)",
+    "question_zh": "哪些装置可以防止背压？（变体 46）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 47)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 47）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 48)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 48）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 49)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 49）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 50)",
+    "question_zh": "哪些装置可以防止背压？（变体 50）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 51)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 51）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 52)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 52）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 53)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 53）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 54)",
+    "question_zh": "哪些装置可以防止背压？（变体 54）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 55)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 55）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 56)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 56）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 57)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 57）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 58)",
+    "question_zh": "哪些装置可以防止背压？（变体 58）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 59)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 59）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 60)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 60）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 61)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 61）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 62)",
+    "question_zh": "哪些装置可以防止背压？（变体 62）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 63)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 63）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 64)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 64）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 65)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 65）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 66)",
+    "question_zh": "哪些装置可以防止背压？（变体 66）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 67)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 67）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 68)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 68）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 69)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 69）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 70)",
+    "question_zh": "哪些装置可以防止背压？（变体 70）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 71)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 71）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 72)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 72）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 73)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 73）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 74)",
+    "question_zh": "哪些装置可以防止背压？（变体 74）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 75)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 75）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 76)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 76）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 77)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 77）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 78)",
+    "question_zh": "哪些装置可以防止背压？（变体 78）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 79)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 79）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 80)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 80）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 81)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 81）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 82)",
+    "question_zh": "哪些装置可以防止背压？（变体 82）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 83)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 83）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 84)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 84）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 85)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 85）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 86)",
+    "question_zh": "哪些装置可以防止背压？（变体 86）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 87)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 87）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 88)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 88）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 89)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 89）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 90)",
+    "question_zh": "哪些装置可以防止背压？（变体 90）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 91)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 91）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 92)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 92）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 93)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 93）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 94)",
+    "question_zh": "哪些装置可以防止背压？（变体 94）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 95)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 95）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 96)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 96）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 97)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 97）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 98)",
+    "question_zh": "哪些装置可以防止背压？（变体 98）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 99)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 99）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 100)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 100）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 101)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 101）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 102)",
+    "question_zh": "哪些装置可以防止背压？（变体 102）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 103)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 103）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 104)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 104）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 105)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 105）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 106)",
+    "question_zh": "哪些装置可以防止背压？（变体 106）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 107)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 107）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 108)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 108）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 109)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 109）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 110)",
+    "question_zh": "哪些装置可以防止背压？（变体 110）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 111)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 111）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 112)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 112）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 113)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 113）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 114)",
+    "question_zh": "哪些装置可以防止背压？（变体 114）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 115)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 115）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 116)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 116）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 117)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 117）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 118)",
+    "question_zh": "哪些装置可以防止背压？（变体 118）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 119)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 119）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 120)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 120）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backsiphonage? (variant 121)",
+    "question_zh": "哪些装置可以防止虹吸回流？（变体 121）",
+    "options": [
+      "PVB, DCA, RP, and AVB",
+      "DCA and RP",
+      "RP, DCA, and PVB",
+      "AVB and PVB",
+      "PVB and DCA"
+    ],
+    "answer": "PVB, DCA, RP, and AVB",
+    "explanation": "All these devices are effective against backsiphonage. 所有这些设备都能防止虹吸回流。"
+  },
+  {
+    "section": "I. Backflow Prevention 回流防止",
+    "question_en": "Which devices can stop backpressure? (variant 122)",
+    "question_zh": "哪些装置可以防止背压？（变体 122）",
+    "options": [
+      "AVB",
+      "PVB",
+      "RP and DCA",
+      "RP only"
+    ],
+    "answer": "RP and DCA",
+    "explanation": "Only RP and DCA can handle backpressure. 只有 RP 和 DCA 能处理背压。"
+  },
+  {
+    "section": "II. Installation 安装",
+    "question_en": "What is the minimum height an AVB must be installed above the highest outlet? (variant 123)",
+    "question_zh": "AVB必须安装在高于最高出水口多少英寸？（变体 123）",
+    "options": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "answer": "6 inches",
+    "explanation": "AVB must be at least 6 inches above the highest downstream outlet. AVB 必须高于下游最高出水口至少 6 英寸。"
+  },
+  {
+    "section": "III. Design 设计与计划",
+    "question_en": "What is the formula for precipitation rate in inches/hour? (variant 124)",
+    "question_zh": "计算降水率（英寸/小时）的公式是？（变体 124）",
+    "options": [
+      "(96.3 × GPM) / Area",
+      "Area ÷ GPM × 96.3",
+      "GPM / Area",
+      "(GPM × 96.3) × Area"
+    ],
+    "answer": "(96.3 × GPM) / Area",
+    "explanation": "The precipitation rate is calculated using the standard formula. 降水率使用标准公式计算。"
+  }
+]
